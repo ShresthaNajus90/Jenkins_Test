@@ -5,5 +5,8 @@ public class main{
       System.out.println("This is test running");
       System.out.println("This is a new line");
       System.out.println("Added one more file");
+
+      Student student = new Student();
+      student.NewStudent();
   }
 }
